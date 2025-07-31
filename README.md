@@ -1,4 +1,4 @@
-# PRODIGY_CS_01
+
 Program Name: Caesar Cipher Program
 Description:
 This program is a simple implementation of the Caesar Cipher, a type of substitution cipher where each letter in the plaintext is 'shifted' a certain number of places down the alphabet. It can be used for both encryption and decryption of messages.
